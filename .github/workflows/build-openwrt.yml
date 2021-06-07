@@ -70,6 +70,11 @@ jobs:
         cd openwrt
         $GITHUB_WORKSPACE/$DIY_P1_SH
 
+    - name: Add library
+      run: |
+        cd $GITHUB_WORKSPACE
+        cat library >> feeds.conf.default
+
     - name: Update feeds
       run: cd openwrt && ./scripts/feeds update -a
 
