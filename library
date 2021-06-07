@@ -1,8 +1,8 @@
-https://github.com/BCYDTZ/luci-app-UUGameAcc
-https://github.com/BCYDTZ/luci-app-LingTiGameAcc
-https://github.com/BCYDTZ/GameAcc
-https://github.com/garypang13/luci-app-bypass
-https://github.com/garypang13/openwrt-packages
-https://github.com/garypang13/smartdns-le
-https://github.com/John-SadJoe-Doe/luci-app-godproxy
-https://github.com/esirplayground/luci-app-poweroff
+src-github luci-app-UUGameAcc https://github.com/BCYDTZ/luci-app-UUGameAcc
+src-github luci-appLingTiGameAcc https://github.com/BCYDTZ/luci-app-LingTiGameAcc
+src-github GameAcc https://github.com/BCYDTZ/GameAcc
+src-github luci-app-bypass https://github.com/garypang13/luci-app-bypass
+src-github openwrt-packages https://github.com/garypang13/openwrt-packages
+src-github smartdns-le https://github.com/garypang13/smartdns-le
+src-github luci-app-godproxy https://github.com/John-SadJoe-Doe/luci-app-godproxy
+src-github luci-app-poweroff https://github.com/esirplayground/luci-app-poweroff
